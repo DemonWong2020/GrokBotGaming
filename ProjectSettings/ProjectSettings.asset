@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 28
+  productGUID: 158850be7ce5439ab5e1f09a045369b0
+  companyName: DemonWong
+  productName: GrokBotGaming
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  m_ActiveColorSpace: 0
+  m_MTRendering: 1
+  runInBackground: 1
+  visibleInBackground: 1
+  allowFullscreenSwitch: 1
+  fullscreenMode: 1
+  bundleVersion: 0.1.0
+  androidSupportedAspectRatio: 1
+  applicationIdentifier:
+    Standalone: com.DemonWong.GrokBotGaming
+  AndroidMinSdkVersion: 23
+  AndroidIsGame: 1
+  templateDefaultScene: Assets/Scenes/Game.unity
+  activeInputHandler: 0
+  projectName: GrokBotGaming
+  enableNativePlatformBackendsForNewInputSystem: 0
+  disableOldInputManagerSupport: 0
